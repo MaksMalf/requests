@@ -3,7 +3,7 @@ from pprint import pprint
 from requests.api import request
 
 
-TOKEN = 'AQAAAAAhmoJiAADLWzad0hVEZU6QjKbqkFrb5NQ'
+TOKEN = ''
 
 
 class YandexDisk:
